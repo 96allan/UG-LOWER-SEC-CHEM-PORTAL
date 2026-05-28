@@ -1,0 +1,6 @@
+{
+  "name": "Uganda Lower Secondary Chemistry CBC Portal",
+  "description": "An interactive, student-centric learning portal covering the complete Ugandan Competency-Based Chemistry Syllabus (S1-S4) with physical particulate simulations, interactive reactant lab vessels, active recall testing, and diagnostic skill dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
